@@ -11632,6 +11632,16 @@ html {
 .profile .dots-4 svg {
   fill: #1e30f3;
 }
+.project {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.text {
+  padding-top: 11%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
 
 @media (min-width: 576px) {
   .profile {
