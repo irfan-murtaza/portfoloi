@@ -119,7 +119,7 @@ function Resume() {
                   <div className="row row-cols-1 row-cols-md-3">
                     <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">System Design / security</div></div>
                     <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Jira</div></div>
-                    <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100"></div>Github / GitLab / Azure</div>
+                    <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Github / GitLab / Azure</div></div>
                   </div>
                 </div>
 
